@@ -8,3 +8,4 @@ banana
 apple
 strawberry
 nuts
+allergy against nuts
