@@ -5,3 +5,4 @@ red
 blue
 apple
 banana
+apple
